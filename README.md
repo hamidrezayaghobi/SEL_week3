@@ -9,5 +9,11 @@
 
 حال تست را پیاده سازی میکنیم
 ![Screenshot from 2023-11-20 23-21-51](https://github.com/hamidrezayaghobi/SEL_week3/assets/59170724/65668693-daf6-46d7-81bc-d10e3ceb3482)
-و خب ارور دریافت می کنیم.
+و خب ارور دریافت می کنیم. حال توابع را پیاده سازی می کنیم
+
+![Screenshot from 2023-11-21 08-59-20](https://github.com/hamidrezayaghobi/SEL_week3/assets/59170724/2bb63c70-edbe-42bf-a1d4-4599989b59d7)
+![Screenshot from 2023-11-21 08-59-30](https://github.com/hamidrezayaghobi/SEL_week3/assets/59170724/ae15290d-0981-4d13-a860-7ae139484259)
+
+
+
 
