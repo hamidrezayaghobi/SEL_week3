@@ -13,7 +13,12 @@
 
 ![Screenshot from 2023-11-21 08-59-20](https://github.com/hamidrezayaghobi/SEL_week3/assets/59170724/2bb63c70-edbe-42bf-a1d4-4599989b59d7)
 ![Screenshot from 2023-11-21 08-59-30](https://github.com/hamidrezayaghobi/SEL_week3/assets/59170724/ae15290d-0981-4d13-a860-7ae139484259)
+و ارور ها برطرف می شود.
+حال توابع گتر و ستر را صرفا در حدی که مشکل نخورد پیاده سازی میکنیم. تست هارو ران می کنیم و مشاهده می کنیم که تست ها پاس نمی شود. حال توابع را پیاده سازی میکنیم و مشاهده می کنیم که تست ها پاس می شود.
 
-
+![Screenshot from 2023-11-21 09-07-33](https://github.com/hamidrezayaghobi/SEL_week3/assets/59170724/b841f8ee-b2a9-49f4-952a-38bdbbb20ef1)
+![Screenshot from 2023-11-21 09-07-41](https://github.com/hamidrezayaghobi/SEL_week3/assets/59170724/e7416c44-98d0-495d-82c4-fe28c7e38e6f)
+![Screenshot from 2023-11-21 09-09-41](https://github.com/hamidrezayaghobi/SEL_week3/assets/59170724/baa741c7-752f-4999-9d08-7c95a21a825c)
+![Screenshot from 2023-11-21 09-09-45](https://github.com/hamidrezayaghobi/SEL_week3/assets/59170724/f8d01bd1-3f2f-404f-86bf-28f53c29cd29)
 
 
