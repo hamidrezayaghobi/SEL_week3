@@ -5,10 +5,11 @@ public class Rectangle {
     private int width;
 
     public  Rectangle(int initHeight, int initWidth) {
-
+        height = initWidth;
+        width = initHeight;
     }
 
     public int computeArea() {
-        return 0;
+        return this.height * this.width;
     }
 }
