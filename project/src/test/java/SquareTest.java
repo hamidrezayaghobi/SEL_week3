@@ -13,4 +13,10 @@ public class SquareTest {
         assertEquals(3, square.getSide());
     }
 
+    @Test
+    public void testSetSide() {
+        Square square = new Square(3);
+        square.setSide(5);
+        assertEquals(5, square.getSide());
+    }
 }
