@@ -6,7 +6,11 @@ public class Square {
         side = initSide;
     }
 
-    public void setSide(int side) {return;}
+    public int computeArea() {
+        return this.side * this.side;
+    }
 
-    public int getSide() {return 0;}
+    public void setSide(int side) {this.side = side;}
+
+    public int getSide() {return this.side;}
 }
